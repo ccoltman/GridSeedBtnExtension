@@ -1,6 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
-    <PropertyGroup>
-        <AssemblyName>GridSeedBtn</AssemblyName>
-    </PropertyGroup>
-    <Import Project="../../SwarmUI.extension.props" />
-</Project>
